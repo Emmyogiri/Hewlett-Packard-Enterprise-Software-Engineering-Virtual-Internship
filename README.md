@@ -25,5 +25,5 @@
 ---
 #### My Certificate of Completion
 
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bgomtQ3nDs3gfvzus_1719261020305_completion_certificate.pdf"><p align= "center"><img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bgomtQ3nDs3gfvzus_1719261020305_completion_certificate.pdf"></p></a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bgomtQ3nDs3gfvzus_1719261020305_completion_certificate.pdf"><p align= "center"><embed src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bgomtQ3nDs3gfvzus_1719261020305_completion_certificate.pdf" type="application/pdf"></p></a>
 
